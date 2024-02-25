@@ -1,4 +1,7 @@
 // this is a comment in javascript
+// a DOM or the DOM is a programming interface for web documents - it represents the page so that programs can change the document structure, style and content
+// aka the Document Object Model "the DOM"
+// you use the DOM to interact with the HTML and CSS of a webpage and by using the document keyword
 
 // myScript.js
 let greeting = "Salutations, friends!"; //<- this is the initial declaration
