@@ -16,7 +16,7 @@ const person = {
 console.log(person["name"]); // "Alexander"
 console.log(person.age); // 32
 
-// Object values cna be any data type, including other objects (remember nesting in Python)?
+// Object values can be any data type, including other objects (remember nesting in Python)?
 // You can nest objects inside other objects or nest arrays inside objects or nest objects inside arrays
 // You can nest as many levels deep as you like - update your objects.js file with the following code:
 const person = {
